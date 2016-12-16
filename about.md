@@ -9,6 +9,10 @@ We’re Hong Kong’s first and only [Hackerspace](https://en.wikipedia.org/wiki
 ## Community
 We are a community operated non-profit open to all people who wants to explore technology as a part of a welcoming community
 
+As a hacker community we subscribe to the [hacker ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics).<br />
+Hacking systems is cool, leaking personal information is not.<br />
+Building a high powered laser contraption is cool, dont use it on your cat though.<br />
+In short, make robots not bombs!
 
 ## Activities
 Dimsumlabs host a variety of workshops and meetups, to see whats going on right now check our [calendar](/calendar/)
