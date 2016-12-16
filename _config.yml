@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Dimsumlabs"
 # email: your-email@domain.com
-description:
-  <p>Hong Kongs first and only hackerspace</p>
-  Weekly open night every **Tuesday at 8pm** in (**Sheung Wan**)[/find_us/]
+description: Hong Kongs first and only hackerspace - Weekly open night every Tuesday at 8pm Sheung Wan
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
