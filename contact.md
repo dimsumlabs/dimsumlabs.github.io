@@ -10,19 +10,19 @@ Come and [meet us on **Tuesdays at 20:00** onwards](/find_us/)
 
 <form id="contactform">
 
-    <label for="name">Name</label>
+    <label for="name">Name (required)</label><br />
     <input name="name" type="text" />
     <br />
 
-    <label for="email">Email</label>
+    <label for="email">Email (required)</label><br />
     <input name="email" type="text" />
     <br />
 
-    <label for="subject">Subject</label>
+    <label for="subject">Subject</label><br />
     <input name="subject" type="text" />
     <br />
 
-    <label for="message">Message</label>
+    <label for="message">Message (required)</label><br />
     <textarea name="message" form="contactform"></textarea>
     <br />
 
