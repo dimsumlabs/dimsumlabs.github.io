@@ -1,0 +1,45 @@
+<footer class="site-footer">
+    <div class="menuwrapper">
+
+        <div class="footer-col-wrapper" style="padding-left: 10px; padding-right: 10px;">
+
+            <div class="footer-col footer-col-1">
+                <ul class="social-media-list">
+                    {% if site.facebook_group_name %}
+                    <li>
+                        {% include icon-facebook.html group_name=site.facebook_group_name %}
+                    </li>
+                    {% endif %}
+
+                    {% if site.github_username %}
+                    <li>
+                        {% include icon-github.html username=site.github_username %}
+                    </li>
+                    {% endif %}
+
+                    {% if site.twitter_username %}
+                    <li>
+                        {% include icon-twitter.html username=site.twitter_username %}
+                    </li>
+                    {% endif %}
+
+                    {% if site.meetup_username %}
+                    <li>
+                        {% include icon-meetup.html username=site.meetup_username %}
+                    </li>
+                    {% endif %}
+
+                </ul>
+            </div>
+
+            <div class="footer-col footer-col-2" style="float: right;">
+                <p>Hong Kongs first and only <strong><a href="/about/">hackerspace</a></strong></p>
+                Weekly open night every <strong>Tuesday at 8pm</strong> in <a href="/find_us/">
+                    <strong>Sheung Wan</strong>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+</footer>
