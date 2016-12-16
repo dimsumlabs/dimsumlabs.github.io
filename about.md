@@ -18,6 +18,7 @@ In short, make robots not bombs!
 Dimsumlabs host a variety of workshops and meetups, to see whats going on right now check our [calendar](/calendar/)
 
 These are some of the subjects we host workshops on:
+
 * Soldering
 * Microcontrollers (Arduino/NodeMCU)
 * Linux
@@ -28,9 +29,11 @@ These are some of the subjects we host workshops on:
 
 ## Tools
 Dimsumlabs have an extensive set of tools to build projects with, some of them are:
+
 * Lasercutter
 * 3D-printers
 * CNC mill
 * Pillar drill
 * Solder stations
+
 And much, much more
