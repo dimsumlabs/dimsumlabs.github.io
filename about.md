@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What are we?
+title: About DSL
 permalink: /about/
 ---
 
